@@ -1,2 +1,28 @@
-# HackerRank-Solutions
-My HackerRank problem solving journey with solutions in Python and other programming languages.
+# HackerRank Solutions 🚀
+
+My journey of solving HackerRank problems.
+
+## Languages
+
+- Python 🐍
+- Java ☕
+- C/C++ 💻
+
+## Topics Covered
+
+- Python Basics
+- Conditional Statements
+- Loops
+- Data Structures
+- Algorithms
+
+## Progress
+
+| Platform   | Problems Solved |
+| ---------- | --------------- |
+| HackerRank | 1               |
+| LeetCode   | 0               |
+
+## Goal
+
+Solve 500+ DSA problems and build strong problem-solving skills for software engineering roles.

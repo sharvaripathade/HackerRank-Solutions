@@ -20,7 +20,7 @@ My journey of solving HackerRank problems.
 
 | Platform   | Problems Solved |
 | ---------- | --------------- |
-| HackerRank | 1               |
+| HackerRank | 10             |
 | LeetCode   | 0               |
 
 ## Goal
